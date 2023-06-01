@@ -1,4 +1,8 @@
 # Curso Web Moderno com JavaScript 2021 COMPLETO + Projetos
+
+## Certificado
+![Certificate](./_certificate/UC-22a954f1-2feb-4fe2-842a-1db594c977d0.jpg)
+
 ## Principais Pontos abordados
 * Lógica de programação
 * JavaScript
